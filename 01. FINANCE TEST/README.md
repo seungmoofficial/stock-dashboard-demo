@@ -26,3 +26,4 @@ streamlit run app.py
 2. `Create app` 버튼을 클릭합니다.
 3. 이 저장소(`stock-dashboard-demo`)를 선택하고 Main file path를 `app.py`로 설정한 뒤 **Deploy**를 클릭합니다.
 4. 전 세계 누구나 접속할 수 있는 고유한 무료 URL이 생성됩니다.
+

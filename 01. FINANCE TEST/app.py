@@ -196,3 +196,4 @@ with col_about:
         st.write(summary)
 
 st.caption("💡 Data powered by Yahoo Finance API | Built with Streamlit")
+
